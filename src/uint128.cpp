@@ -1,3 +1,4 @@
+#include <stdexcept>
 #include <fc/uint128.hpp>
 #include <fc/variant.hpp>
 #include <fc/crypto/bigint.hpp>
